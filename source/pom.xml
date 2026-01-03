@@ -16,12 +16,12 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>market</module>
-        <module>cloud-core-market</module>
-        <module>cloud-gateway</module>
-        <module>cloud-sso</module>
-        <module>cloud-api-market</module>
-        <module>cloud-diss</module>
+        <module>modules/market</module>
+        <module>modules/cloud-core-market</module>
+        <module>modules/cloud-gateway</module>
+        <module>modules/cloud-sso</module>
+        <module>modules/cloud-api-market</module>
+        <module>modules/cloud-diss</module>
     </modules>
 
     <properties>
